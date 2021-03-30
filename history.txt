@@ -1,0 +1,117 @@
+    1  pwd
+    2  mkdir apssdc
+    3  touch profile.txt
+    4  clear
+    5  cd apssdc
+    6  touch profile.txt
+    7  ls
+    8  vi profile.txt
+    9  cat profile.txt
+   10  touch sample.html
+   11  vi sample.html
+   12  touch profile.txt
+   13  touch profile.html
+   14  vi sample.html
+   15  touch profile.html
+   16  touch sample.htnml
+   17  [2~
+   18   git init
+   19  git clone
+   20  git clone 'https://github.com/suprajaanthoti564/gist.gist.git'
+   21  ls
+   22  cd gist_gist/
+   23  ls
+   24  vi RE
+   25  vi README.MD
+   26  git config --global use.name 'supraja'
+   27  git config --global user.name 'supraja'
+   28  git config --global user.email'suprajaanthoti@gmail.com'
+   29  desktop/supraja/gist.gist/.git/
+   30  git push origin main
+   31  git init
+   32  git status -s
+   33  touch example py
+   34  git add .
+   35  git config --global user.name 'suprajaanthoti'
+   36  git config -- user.email 'suprajaanthoti@gmail.com'
+   37  git status -s
+   38  touch example.py
+   39   git add.
+   40  git add .
+   41  git status -s
+   42  git commit -m 'write markdown statements'
+   43  git remote add origin 'http://github.com/gist564/gist.gist'
+   44  git push  origin master
+   45  pwd
+   46  ls
+   47  touch demo.txt
+   48  ls
+   49  mkdir GIST
+   50  ls
+   51  cd GIST
+   52  pwd
+   53  cd ..
+   54  pwd
+   55  cd e:
+   56  pwd
+   57  cd d:
+   58  pwd
+   59  cd c:
+   60  cd 
+   61  cd C/Users/dell/Desktop/Mehaik -4G7
+   62  cd C:/Users/dell/Desktop/Mehaik -4G7
+   63  cd C:/Users/dell/Desktop/Mehaik
+   64  cd C:/Users/dell/Desktop/Mehaik -4G7
+   65  cd C:/Users/dell/Desktop/Mehaik-4G7
+   66  cd C:/Users/dell/Desktop/Mehaik -4G7
+   67  pwd
+   68  ls
+   69  touch demo.txt
+   70  ls
+   71  mkdir GIST
+   72  ls
+   73  cd GIST
+   74  pwd
+   75  cd ..
+   76  pwd
+   77  cd e:
+   78  pwd
+   79  cd d:
+   80  cd c:
+   81  pwd
+   82  ls
+   83  rmdir GIST
+   84  ls
+   85  rm demo.txt
+   86  ls
+   87  rm file{1..10}.txt
+   88  ls
+   89  rm file{50..100}.txt
+   90  ls
+   91  rm clanguage{50..100}.cpp
+   92  ls
+   93  rm *.txt
+   94  ls
+   95  rm *.py
+   96  ls
+   97  nano myfile.txt
+   98  cat myfile.txt
+   99  nano myfile.txt
+  100  cat myfile.txt
+  101  echo "Hello" >>myfile2.txt
+  102  cat myfile2.txt
+  103  echo{1..100} >> myfile3.txt
+  104  echo {1..100} >> myfile3.txt
+  105  cat myfile3.txt
+  106  echo {1..1000} >> myfile3.txt
+  107  cat myfile3.txt
+  108  mv myfile3.txt myfile2.txt
+  109  cat myfile2.txt
+  110  ls
+  111  cp myfile2.txt myfile.txt
+  112  cat myfile.txt
+  113  ld
+  114  ls
+  115  cat myfile2.txt
+  116  history
+  117  history >>history.txt
